@@ -1,0 +1,26 @@
+account_code,account_name,statement_group,reporting_category,reporting_group,notes
+4000,Consulting Revenue,Income,Revenue,Income,Client consulting / professional services revenue
+4010,SaaS Subscription Revenue,Income,Revenue,Income,Recurring subscription revenue (if applicable)
+4020,Other Income / Reimbursements,Income,Revenue,Income,Reimbursements or miscellaneous income
+5000,Contractors / Subcontractors,Cost of Services,Cost of Services,Cost of Services,1099s / subcontractors for delivery
+5010,Delivery Software (Project Tools),Cost of Services,Cost of Services,Cost of Services,Tools used primarily for client delivery
+6100,SaaS Subscriptions,Operating Expenses,Software Subscriptions,Operating Expenses,"Software subscriptions (Claude, OpenAI, etc.)"
+6110,Cloud/Hosting,Operating Expenses,Software Subscriptions,Operating Expenses,"Hosting and compute (Vercel, AWS, etc.)"
+6120,Domain & Website,Operating Expenses,Web & Domains,Operating Expenses,"Domains, website services (Squarespace, etc.)"
+6130,Professional Fees,Operating Expenses,Professional Fees,Operating Expenses,"Accounting, legal, consulting fees"
+6140,Marketing & Advertising,Operating Expenses,Marketing,Operating Expenses,"Ads, job postings, LinkedIn, etc."
+6150,Travel - Airfare,Operating Expenses,Travel & Meals,Operating Expenses,Flights
+6155,Travel - Lodging,Operating Expenses,Travel & Meals,Operating Expenses,Hotels
+6160,Travel - Ground Transport,Operating Expenses,Travel & Meals,Operating Expenses,"Uber, taxis, local transport"
+6165,Travel - Other,Operating Expenses,Travel & Meals,Operating Expenses,"Airports, lounges, misc travel"
+6170,Meals & Entertainment,Operating Expenses,Travel & Meals,Operating Expenses,Meals with business purpose (may be partial deductible)
+6180,Office & Supplies,Operating Expenses,Office & Supplies,Operating Expenses,Office supplies and small equipment
+6190,Bank & Wire Fees,Operating Expenses,Banking & Fees,Operating Expenses,"Bank fees, wire fees"
+6200,Credit Card Fees,Operating Expenses,Banking & Fees,Operating Expenses,Card fees/late fees (if any)
+1000,Cash - Capital One Checking,Assets,Cash & Other Assets,Assets,Operating cash
+2000,Credit Card Payable - Capital One,Liabilities,Liabilities,Liabilities,Capital One business credit card payable
+3000,Owner's Equity,Equity,Equity,Equity,Opening equity + retained earnings
+3100,Owner Contributions,Equity,Equity,Equity,Owner contributions
+3200,Owner Distributions,Equity,Equity,Equity,Owner distributions
+6210,Office Rent / Virtual Office,Operating Expenses,Occupancy,Operating Expenses,Regus virtual office monthly rent
+6999,Suspense / Unclassified,Operating Expenses,Suspense,Operating Expenses,Temporary holding for uncategorized/low-confidence items (CPA-aligned)

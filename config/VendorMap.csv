@@ -1,0 +1,31 @@
+match_type,match_value,normalized_vendor,default_category,notes
+contains,OPENAI,OpenAI,SaaS Subscriptions,
+contains,CHATGPT,OpenAI (ChatGPT),SaaS Subscriptions,
+contains,CLAUDE.AI,Claude.ai,SaaS Subscriptions,
+contains,REPLICATE,Replicate,SaaS Subscriptions,
+contains,VERCEL,Vercel,Cloud/Hosting,
+contains,SQSP* DOMAIN,Squarespace Domains,Domain & Website,
+contains,CREATIVEFABRICA,Creative Fabrica,SaaS Subscriptions,
+contains,FACT PROFESSIONAL,"Fact Professional, Inc.",Professional Fees,
+contains,SupportPDFfiller,PDFfiller,SaaS Subscriptions,
+contains,GOOGLE *LinkedIn Jobs,LinkedIn Jobs (via Google),Marketing & Advertising,
+contains,EMIRATES,Emirates,Travel - Airfare,
+contains,NEW ORLEANS AIRPORT,Airport,Travel - Other,
+contains,INMOTION @LAX,Airport Retail,Travel - Other,
+contains,THE BROWN PALACE,Hotel / Lodging,Travel - Lodging,
+contains,P.F.CHANG,Restaurant,Meals & Entertainment,
+contains,SQ *SUCRE,Restaurant,Meals & Entertainment,
+contains,UA INFLT,Airline Inflight,Travel - Other,
+contains,ROCKET 169,Fuel / Convenience,Travel - Other,
+contains,EASYPLANT,Retail,Office & Supplies,
+contains,AMAZON MKTPL,Amazon Marketplace,Office & Supplies,
+contains,RAZ*nettigritty,Digital Services,SaaS Subscriptions,
+contains,Wire transfer fee,Bank Fee,Bank & Wire Fees,
+contains,MERAS,Meras Engineering,Consulting Revenue,
+contains,Chyantech,Chyantech,Professional Fees,Vendor services - USA
+contains,CAPITAL ONE MOBILE PMT,Capital One Card Payment,Credit Card Payable - Capital One,
+contains,REGUS,Regus Virtual Office,Office Rent / Virtual Office,Monthly virtual office rent
+contains,UBER *TRIP,Uber (Business Travel),Travel - Ground Transport,Business travel confirmed
+contains,UBER,Uber (Business Travel),Travel - Ground Transport,Business ground transportation
+contains,Wire Transfer Dr Nexia,Nexia (India Vendor),Professional Fees,International wire payment for services (Debit)
+contains,Nexia,Nexia (India Vendor),Professional Fees,Vendor services – India
